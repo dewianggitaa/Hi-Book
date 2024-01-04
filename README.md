@@ -1,6 +1,6 @@
 # HI BOOK #
 
-## Kelompok 8 -  IF A ## <br>
+## Kelompok 8 -  IF A <br>
 Arih Adilah Hasan(1217050022)<br>
 Dewi Anggita Yulianti(1217050035)<br>
 Dinar Rizki Helmalia(1217050042)<br>
