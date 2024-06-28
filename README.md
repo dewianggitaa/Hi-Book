@@ -15,8 +15,12 @@ Link Pitch Deck dan Video:  https://drive.google.com/drive/folders/1y7YtNDQ-kPdB
 Link Repo: https://github.com/dewianggitaa/Hi-Book <br>
 Link App Hi Book: https://play.google.com/store/apps/details?id=com.grayseal.bookshelf <br>
 
-Screenshot App : 
-![image](https://github.com/dewianggitaa/Hi-Book/assets/95345862/94874414-7017-49ed-b2a6-4b764745b1b7)
+Screenshot App : <br>
+<img src="https://github.com/dewianggitaa/Hi-Book/assets/95345862/94874414-7017-49ed-b2a6-4b764745b1b7" width="200">
+<img src="https://github.com/dewianggitaa/Hi-Book/assets/95345862/769a396d-a80d-4cdb-b168-34bc2ff031eb" width="200">
+<img src="https://github.com/dewianggitaa/Hi-Book/assets/95345862/44a882c1-e64d-4e04-88cf-01f9b49db316" width="200">
+
+
 
 
 Screenshot Machine Learning Model : 
